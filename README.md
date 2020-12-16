@@ -5,3 +5,5 @@ For most financial institutions, such as banks and multi-finance companies, thei
 ## In this question, Our task is to help the troubled lenders with this problem by creating a model that can help them make their decision. The lenders also provided the following dataset that we can use.
 
 Given the particular dataset, the model was created to rank the loan applicants based on their repayment capability. The rank will then be used to choose who are eligible for a loan, lower interest rate and higher credit limit. 
+
+### In this case, model are built with pipeline methods extensively.
